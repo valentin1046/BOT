@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.login("NzAzMzQ5MjUzMzIxNTIzMjgx.XqNT7w.GiPT4fkArT5iC5UoW7njBoToRH0");
+client.login("process.env.TOKEN");
 
 
 var prefix = ("-");
