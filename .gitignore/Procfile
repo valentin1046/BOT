@@ -1,1 +1,1 @@
-worker : node 23.js
+worker: node 23.js
